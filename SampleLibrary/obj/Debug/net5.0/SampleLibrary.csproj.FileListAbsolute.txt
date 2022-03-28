@@ -1,0 +1,12 @@
+C:\Users\macie\source\repos\SampleLibrary\SampleLibrary\bin\Debug\net5.0\SampleLibrary.deps.json
+C:\Users\macie\source\repos\SampleLibrary\SampleLibrary\bin\Debug\net5.0\SampleLibrary.dll
+C:\Users\macie\source\repos\SampleLibrary\SampleLibrary\bin\Debug\net5.0\ref\SampleLibrary.dll
+C:\Users\macie\source\repos\SampleLibrary\SampleLibrary\bin\Debug\net5.0\SampleLibrary.pdb
+C:\Users\macie\source\repos\SampleLibrary\SampleLibrary\obj\Debug\net5.0\SampleLibrary.csproj.AssemblyReference.cache
+C:\Users\macie\source\repos\SampleLibrary\SampleLibrary\obj\Debug\net5.0\SampleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\SampleLibrary\SampleLibrary\obj\Debug\net5.0\SampleLibrary.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\SampleLibrary\SampleLibrary\obj\Debug\net5.0\SampleLibrary.AssemblyInfo.cs
+C:\Users\macie\source\repos\SampleLibrary\SampleLibrary\obj\Debug\net5.0\SampleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\SampleLibrary\SampleLibrary\obj\Debug\net5.0\SampleLibrary.dll
+C:\Users\macie\source\repos\SampleLibrary\SampleLibrary\obj\Debug\net5.0\ref\SampleLibrary.dll
+C:\Users\macie\source\repos\SampleLibrary\SampleLibrary\obj\Debug\net5.0\SampleLibrary.pdb
